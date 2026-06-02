@@ -3,3 +3,4 @@ Learning Arduino from scratch - a collection of projects built while teaching my
 
 ## Projects
 - Project 1: Blinking LED — digital output, pinMode, digitalWrite, delay
+- Project 2: SOS Morse Code — variables, timing logic, dit/dah patterns
