@@ -9,3 +9,4 @@ Learning Arduino from scratch - a collection of projects built while teaching my
 - Project 5: Analog Voltage Reader - analogRead, voltage divider, Serial Monitor output
 - Project 6: Potentiometer Voltage Reader - 10K potentiometer, analogRead, variable resistance to voltage
 - Project 7: Traffic Light Warning System - if statements, potentiometer input, multi-LED output based on voltage thresholds
+- Project 8: Dimmable LED - potentiometer input mapped to PWM output, real-time brightness control
