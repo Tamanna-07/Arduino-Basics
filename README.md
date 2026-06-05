@@ -12,3 +12,4 @@ Learning Arduino from scratch - a collection of projects built while teaching my
 - Project 8: Dimmable LED - potentiometer input mapped to PWM output, real-time brightness control
 - Project 9: LED Blink Counter - for loops, two LEDs blinking controlled number of times
 - Project 10: While Loop LED Trigger - while loops, reactive LED behavior based on potentiometer threshold
+- Project 11: Serial Input Blink Controller - Serial.parseInt(), reading user input, while loop blink counter
