@@ -14,3 +14,4 @@ Learning Arduino from scratch - a collection of projects built while teaching my
 - Project 10: While Loop LED Trigger - while loops, reactive LED behavior based on potentiometer threshold
 - Project 11: Serial Input Blink Controller - Serial.parseInt(), reading user input, while loop blink counter
 - Project 12: Serial String LED Controller - Serial.readString(), string comparison, controlling RGB LEDs via text input
+- Project 13: RGB Mood Lamp - dual mode control (serial monitor + potentiometer), PWM brightness, zone-based color mapping, while loop continuous reading
